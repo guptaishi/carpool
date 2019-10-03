@@ -1,0 +1,6 @@
+require_once-> include a php file in another one.
+session_start()->creates a session or resumes the current one based on a session identifier passed via a GET or POST request
+isset()->used to check whether a variable is set or not
+$_SESSION[]-> session variable are stored in $_session
+session_start->php session is easily started by making a call to session_start()
+mysql_real_escape_string()->escapw special character in a string
